@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# @author Danny Eck <deck0@searshc.com>
+# @author Danny Eck
 # @date 2013-08-23
 #
 # This script grabs the latest curl_results and creates a plot using the Rscript
