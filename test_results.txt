@@ -1,0 +1,27 @@
+
+Failures:
+
+  1) UPC: 754819094414 should have a longDesc
+   Message:
+     Expected 0 to be truthy.
+
+
+  2) UPC: 846411007050 should have a longDesc
+   Message:
+     Expected 0 to be truthy.
+
+
+  3) UPC: 882272255216 products should have an imgUrls array
+   Message:
+     Expected 0 to be truthy.
+
+
+  4) UPC: 884888719885 should have a longDesc
+   Message:
+     Expected 0 to be truthy.
+
+
+Finished in 7.311 seconds
+13008 tests, 24975 assertions, 4 failures, 0 skipped
+
+

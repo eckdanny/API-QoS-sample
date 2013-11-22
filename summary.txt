@@ -1,0 +1,4 @@
+   Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+  0.149   0.761   1.559   3.407   4.074  19.840 
+
+  Std Dev:  4.365341 
